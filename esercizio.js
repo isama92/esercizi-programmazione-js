@@ -14,7 +14,7 @@
 
 
 function esempio(n){
-    // Questa funzione di esempio scrive i numeri da 1 a N.
+    // Questo esercizio di esempio scrive i numeri da 1 a N.
     var arr = new Array;
     for(let i = 0; i < n; i++)
         arr[i] = i+1;
