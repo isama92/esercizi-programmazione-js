@@ -21,6 +21,8 @@ $('document').ready(function(){
                 break;
             case 7: ris1 = primi(n);
                 break;
+            case 8: ris1 = ordinamento(n);
+                break;
             default: errore("Errore n. 1");
                 break;
         }
